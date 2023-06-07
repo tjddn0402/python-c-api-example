@@ -1,0 +1,3 @@
+from typing import Any
+
+def square(n: Any) -> Any: ...
